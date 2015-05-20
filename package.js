@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "Make signin and signout their own modals with routes.",
+    summary: "Make signup and signin their own modals.",
     version: '0.0.1',
     name: "asveloper:accounts-modal",
     githubUrl: 'https://github.com/asveloper/accounts-modal.git',
